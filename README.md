@@ -1,7 +1,7 @@
 <h1 > Welcome to my github account! 👋 </h1>
 
 
-<h3>I'm Mohamed, .Net developer from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Mansoura, Egypt</b>
+<h3>I'm Mohamed, .Net developer from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Egypt</b>
 <br>
 <br>
 <h3><b>My Repos</b></h3>
