@@ -61,13 +61,14 @@
   <li><a href="https://www.linkedin.com/pulse/lazy-loading-entity-framework-mohamed-hashish/">
     <b>Lazy loading entity framework</b></a>
   </li>
+  <li><a href="https://www.linkedin.com/pulse/async-await-c-mohamed-hashish/">
+    <b>Async and Await in C#</b></a>
+  </li>
    <li><a href="https://www.linkedin.com/pulse/n1-queries-problem-mohamed-hashish/">
     <b>N + 1 queries problem</b></a>
   </li>
 </ul>
 <br>
-<h3><b>Where To find me</b></h3>
+<h3><b>Where to find me</b></h3>
 <p><a href="https://github.com/MohamedHashish42" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
-
