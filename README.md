@@ -34,6 +34,12 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/SOLID_PRINCIPLES?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/SOLID_PRINCIPLES?style=flat-square&labelColor=343b41"/></td>
     </tr>
+       <tr>
+      <td><a href="https://github.com/MohamedHashish42/CSharp-New-Features"><b>CSharp New Features</b></a></td>
+      <td><a href="https://github.com/MohamedHashish42/CSharp-New-Features/blob/master/README.md"><b>Description</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/MohamedHashish42/AsyncAndAwaitInCSharp"><b>Async and Await In CSharp</b></a></td>
       <td></td>
