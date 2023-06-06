@@ -17,7 +17,7 @@
   <tbody>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms"><b>Data structures and algorithms</b></a></td>
+      <td><a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms"><b>Data Structures and Algorithms</b></a></td>
       <td><a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms/blob/master/README.md"><b>Description</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/></td>
@@ -29,10 +29,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedHashish42/SOLID_PRINCIPLES"><b>SOLID PRINCIPLES</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/SOLID_PRINCIPLES/blob/master/README.md"><b>Description</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/SOLID_PRINCIPLES?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/SOLID_PRINCIPLES?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/MohamedHashish42/SOLID-Principles"><b>SOLID-Principles</b></a></td>
+      <td><a href="https://github.com/MohamedHashish42/SOLID-Principles/blob/master/README.md"><b>Description</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/></td>
     </tr>
        <tr>
       <td><a href="https://github.com/MohamedHashish42/CSharp-New-Features"><b>CSharp New Features</b></a></td>
@@ -56,25 +56,28 @@
   </tbody>
 </table>
 
-<h3><b>My latest articles on LinkedIn</b></h3>
+<h3><b>You also can find the previous repos on medium</b></h3>
+
+<h4><b>My latest articles on Medium:</b></h4>
 <ul>
-  <li><a href="https://www.linkedin.com/pulse/dynamic-programming-mohamed-hashish/">
-    <b>Dynamic Programming</b></a>
+  <li><a href="https://medium.com/@mohamed.hashish42/creational-design-patterns-c12a189cd30a">
+    <b>Creational Design Patterns</b></a>
   </li>
-  <li><a href="https://www.linkedin.com/pulse/recursion-mohamed-hashish/">
-    <b>Recursion</b></a>
+  <li><a href="https://medium.com/@mohamed.hashish42/behavior-design-patterns-d5416900286b">
+    <b>Behavior Design Patterns</b></a>
   </li>
-  <li><a href="https://www.linkedin.com/pulse/lazy-loading-entity-framework-mohamed-hashish/">
-    <b>Lazy loading entity framework</b></a>
+  <li><a href="https://medium.com/@mohamed.hashish42/structural-design-patterns-46a82eef32e2">
+    <b>Structure Design Patterns</b></a>
   </li>
-  <li><a href="https://www.linkedin.com/pulse/async-await-c-mohamed-hashish/">
-    <b>Async and Await in C#</b></a>
-  </li>
-   <li><a href="https://www.linkedin.com/pulse/n1-queries-problem-mohamed-hashish/">
-    <b>N + 1 queries problem</b></a>
+    <li><a href="https://medium.com/@mohamed.hashish42/dependency-injection-pattern-with-examples-659cc57da03d">
+    <b>Dependency Injection Pattern</b></a>
   </li>
 </ul>
 <br>
 <h3><b>Where to find me</b></h3>
-<p><a href="https://github.com/MohamedHashish42" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p>
+<a href="https://github.com/MohamedHashish42" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> 
+<a href="https://medium.com/@mohamed.hashish42/lists" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=Medium&logoColor=white%22" /></a> 
+ <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
 </p>
