@@ -72,6 +72,10 @@
     <li><a href="https://medium.com/@mohamed.hashish42/dependency-injection-pattern-with-examples-659cc57da03d">
     <b>Dependency Injection Pattern</b></a>
   </li>
+  </li>
+    <li><a href="https://medium.com/@mohamed.hashish42/data-structures-and-algorithms-6a7c593be673">
+    <b>Data Structures And Algorithms</b></a>
+  </li>
 </ul>
 <br>
 <h3><b>Where to find me</b></h3>
