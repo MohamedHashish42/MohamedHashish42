@@ -8,8 +8,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Repo Name</b></td>
-      <td><b>👇 Description</b></td>
+      <td><b>🎁 Repo </b></td>
+      <td><b>👇 Medium</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
     </tr>
@@ -17,75 +17,100 @@
   <tbody>
     </tr>
       <tr>
-      <td><a href="https://github.com/MohamedHashish42/Git-Revision"><b>Git Revision</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/Git-Revision/blob/master/README.md"><b>Description</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Git-Revision?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Git-Revision?style=flat-square&labelColor=343b41"/></td>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Git-Revision"><b>Git Revision</b></a>
+      </td>
+       <td></td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Git-Revision?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Git-Revision?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+        </tr>
+      <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/CSharp-New-Features"><b>CSharp New Features</b></a></td>
+       <td></td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms"><b>Data Structures and Algorithms</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms/blob/master/README.md"><b>Description</b></a>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Data-Structures-And-Algorithms"><b>Data Structures and Algorithms</b></a>
       </td>
-     <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/>
+      <td>
+      <a href="https://medium.com/@mohamed.hashish42/list/data-structures-and-algorithms-3f41c85b7a96"><b>Open</b></a>
+      </td>
+     <td>
+     <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/>
      </td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Data-Structures-And-Algorithms?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/MohamedHashish42/Design_Patterns"><b>Design Patterns</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/Design_Patterns/blob/master/README.md"><b>Description</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/></td>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Design_Patterns"><b>Design Patterns</b></a>
+      </td>
+       <td>
+        <a href="https://medium.com/@mohamed.hashish42/list/design-patterns-96a980c66913"><b>Open</b></a>
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedHashish42/SOLID-Principles"><b>SOLID-Principles</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/SOLID-Principles/blob/master/README.md"><b>Description</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-       <tr>
-      <td><a href="https://github.com/MohamedHashish42/CSharp-New-Features"><b>CSharp New Features</b></a></td>
-      <td><a href="https://github.com/MohamedHashish42/CSharp-New-Features/blob/master/README.md"><b>Description</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/></td>
+      <td>
+      <a href="https://github.com/MohamedHashish42/SOLID-Principles"><b>SOLID-Principles</b></a></td>
+       <td>
+       <a href="https://medium.com/@mohamed.hashish42/solid-principles-in-c-f5e25eda429b"><b>Open</b></a>
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/SOLID-Principles?style=flat-square&labelColor=343b41"/>
+      </td>
+    <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/AsyncAndAwaitInCSharp"><b>Async and Await In CSharp</b></a>
+      </td>
+      <td>
+      <a href="https://medium.com/@mohamed.hashish42/async-and-await-in-c-eabbccb0d30f"><b>Open</b></a>
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/AsyncAndAwaitInCSharp?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/AsyncAndAwaitInCSharp?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedHashish42/AsyncAndAwaitInCSharp"><b>Async and Await In CSharp</b></a></td>
-      <td></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/AsyncAndAwaitInCSharp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/AsyncAndAwaitInCSharp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MohamedHashish42/LazyLoading"><b>Lazy Loading</b></a></td>
-      <td></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/LazyLoading?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/LazyLoading?style=flat-square&labelColor=343b41"/></td>
+      <td>
+      <a href="https://github.com/MohamedHashish42/LazyLoading"><b>Lazy Loading</b></a></td>
+      <td>
+      <a href="https://medium.com/@mohamed.hashish42/lazy-loading-in-entity-framework-3fddb2bbcc61"><b>Open</b>
+      </a>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/LazyLoading?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/LazyLoading?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
 
   </tbody>
 </table>
 
-<h3><b>You also can find the previous repos on medium</b></h3>
-
-<h4><b>My latest articles on Medium:</b></h4>
-<ul>
-  <li><a href="https://medium.com/@mohamed.hashish42/creational-design-patterns-c12a189cd30a">
-    <b>Creational Design Patterns</b></a>
-  </li>
-  <li><a href="https://medium.com/@mohamed.hashish42/behavior-design-patterns-d5416900286b">
-    <b>Behavior Design Patterns</b></a>
-  </li>
-  <li><a href="https://medium.com/@mohamed.hashish42/structural-design-patterns-46a82eef32e2">
-    <b>Structure Design Patterns</b></a>
-  </li>
-    <li><a href="https://medium.com/@mohamed.hashish42/dependency-injection-pattern-with-examples-659cc57da03d">
-    <b>Dependency Injection Pattern</b></a>
-  </li>
-  </li>
-    <li><a href="https://medium.com/@mohamed.hashish42/data-structures-and-algorithms-6a7c593be673">
-    <b>Data Structures And Algorithms</b></a>
-  </li>
-</ul>
 <br>
 <h3><b>Where to find me</b></h3>
 <p>
