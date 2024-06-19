@@ -41,21 +41,7 @@
       <td>
       <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Docker-Revision?style=flat-square&labelColor=343b41"/>
       </td>
-    </tr>
-     <tr>
-      <td>
-      <a href="https://github.com/MohamedHashish42/Managing-Multiple-Github-Accounts"><b>Managing Multiple Github Accounts</b></a>
-      </td>
-      <td>
-      <a href="https://medium.com/@mohamed.hashish42/managing-multiple-github-accounts-030f02b15ca7"><b>Open</b></a>
-      </td>
-      <td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Managing-Multiple-Github-Accounts?style=flat-square&labelColor=343b41"/>
-      </td>
-      <td>
-      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Managing-Multiple-Github-Accounts?style=flat-square&labelColor=343b41"/>
-      </td>
-    </tr>
+    </tr>     
     <tr>
       <td>
       <a href="https://github.com/MohamedHashish42/Git-Revision"><b>Git Revision</b></a>
@@ -77,6 +63,20 @@
       </td>
       <td>
       <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/CSharp-New-Features?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Managing-Multiple-Github-Accounts"><b>Managing Multiple Github Accounts</b></a>
+      </td>
+      <td>
+      <a href="https://medium.com/@mohamed.hashish42/managing-multiple-github-accounts-030f02b15ca7"><b>Open</b></a>
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Managing-Multiple-Github-Accounts?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Managing-Multiple-Github-Accounts?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
     <tr>
