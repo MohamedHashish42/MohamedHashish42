@@ -15,10 +15,23 @@
     </tr>
   </thead>
   <tbody>
-
+   
    <tr>
       <td>
-      <a href="https://github.com/MohamedHashish42/Kubernetes-Revision"><b>Kubernetes-Revision</b></a>
+      <a href="https://github.com/MohamedHashish42/Kubernetes-Revision"><b>IIS Revision</b></a>
+      </td>
+      <td>     
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/IIS-Revision?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/IIS-Revision?style=flat-square&labelColor=343b41"/>
+      </td>
+   </tr>
+   <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Kubernetes-Revision"><b>Kubernetes Revision</b></a>
       </td>
       <td>     
       </td>
