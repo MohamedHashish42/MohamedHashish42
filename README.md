@@ -15,7 +15,20 @@
     </tr>
   </thead>
   <tbody>
-   
+	  
+   <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Interview-Preparation"><b>Interview Preparation</b></a>
+      </td>
+      <td>     
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Interview-Preparation?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Interview-Preparation?style=flat-square&labelColor=343b41"/>
+      </td>
+   </tr>   
    <tr>
       <td>
       <a href="https://github.com/MohamedHashish42/IIS-Revision"><b>IIS Revision</b></a>
