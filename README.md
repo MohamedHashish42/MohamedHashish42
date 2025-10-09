@@ -196,7 +196,7 @@
 
 
 
-### 🧵 C# & .NET Insights
+### 🖥️ C# & .NET
 
 
 <table>
