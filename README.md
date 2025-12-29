@@ -5,7 +5,7 @@
 # Welcome to my github account! 👋 
 
 
-<h3>I'm    <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/"><b>Mohamed Hashish</b></a>, Backend Software Engineer (.NET) from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Egypt</b><h3>
+<h3>I'm    <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/"><b>Mohamed Hashish</b></a>, Software Developer(Backend | .NET) from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Egypt</b><h3>
 <br>
 
 
