@@ -5,42 +5,11 @@
 # Welcome to my github account! 👋 
 
 
-<h3>I'm    <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/"><b>Mohamed Hashish</b></a>, .Net developer from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Egypt</b><h3>
+<h3>I'm    <a href="https://www.linkedin.com/in/mohamed-hashish-159158a2/"><b>Mohamed Hashish</b></a>, Software Developer (Backend | .NET) from <img src="https://flagicons.lipis.dev/flags/4x3/eg.svg" width="13"/> <b>Egypt</b><h3>
 <br>
 
 
 ## My Repos
-
-
-
-### 🤝 Soft Skills
-
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Repo </b></td>
-      <td><b>👇 Medium</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	<tr>
-      <td>
-      <a href="https://github.com/MohamedHashish42/workplace-english"><b>Workplace English</b></a>
-      </td>
-      <td>     
-      </td>
-      <td>
-      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/workplace-english?style=flat-square&labelColor=343b41"/>
-      </td>
-      <td>
-      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/workplace-english?style=flat-square&labelColor=343b41"/>
-      </td>
-  </tr>  
-  </tbody>
-</table>
 
 
 
@@ -304,6 +273,36 @@
       </td>
     </tr>
 
+  </tbody>
+</table>
+
+
+### 🤝 Soft Skills
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Repo </b></td>
+      <td><b>👇 Medium</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	<tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/workplace-english"><b>Workplace English</b></a>
+      </td>
+      <td>     
+      </td>
+      <td>
+      <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/workplace-english?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+      <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/workplace-english?style=flat-square&labelColor=343b41"/>
+      </td>
+  </tr>  
   </tbody>
 </table>
 
