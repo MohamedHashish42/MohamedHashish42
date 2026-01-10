@@ -221,6 +221,17 @@
       <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Design_Patterns?style=flat-square&labelColor=343b41"/>
       </td>
   </tr>
+   <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Functional-Programming-CSharp"><b>Functional Programming CSharp</b></a></td>
+      <td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Functional-Programming-CSharp?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Functional-Programming-CSharp?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
 
 
   </tbody>
@@ -279,6 +290,17 @@
       </td>
       <td>
         <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/LazyLoading?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/MohamedHashish42/Functional-Programming-CSharp"><b>Functional Programming CSharp</b></a></td>
+      <td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Functional-Programming-CSharp?style=flat-square&labelColor=343b41"/>
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/MohamedHashish42/Functional-Programming-CSharp?style=flat-square&labelColor=343b41"/>
       </td>
     </tr>
 
