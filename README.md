@@ -92,7 +92,6 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Repo </b></td>
-      <td><b>👇 Medium</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
     </tr>
@@ -104,7 +103,6 @@
       <td>
       <a href="https://github.com/MohamedHashish42/Git-Revision"><b>Git Revision</b></a>
       </td>
-       <td></td>
       <td>
       <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Git-Revision?style=flat-square&labelColor=343b41"/>
       </td>
@@ -117,8 +115,6 @@
       <td>
       <a href="https://github.com/MohamedHashish42/IIS-Revision"><b>IIS Revision</b></a>
       </td>
-      <td>     
-      </td>
       <td>
       <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/IIS-Revision?style=flat-square&labelColor=343b41"/>
       </td>
@@ -128,9 +124,7 @@
    </tr>
       <tr>
       <td>
-      <a href="https://github.com/MohamedHashish42/Docker-Revision/"><b>Docker-Revision</b></a>
-      </td>
-      <td>     
+      <a href="https://github.com/MohamedHashish42/Docker-Revision/"><b>Docker-Revision</b></a>    
       </td>
       <td>
       <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Docker-Revision?style=flat-square&labelColor=343b41"/>
@@ -142,8 +136,6 @@
    <tr>
       <td>
       <a href="https://github.com/MohamedHashish42/Kubernetes-Revision"><b>Kubernetes Revision</b></a>
-      </td>
-      <td>     
       </td>
       <td>
       <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/Kubernetes-Revision?style=flat-square&labelColor=343b41"/>
@@ -317,7 +309,6 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Repo </b></td>
-      <td><b>👇 Medium</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
     </tr>
@@ -326,8 +317,6 @@
 	<tr>
       <td>
       <a href="https://github.com/MohamedHashish42/workplace-english"><b>Workplace English</b></a>
-      </td>
-      <td>     
       </td>
       <td>
       <img alt="Stars" src="https://img.shields.io/github/stars/MohamedHashish42/workplace-english?style=flat-square&labelColor=343b41"/>
